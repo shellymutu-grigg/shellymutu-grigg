@@ -1,4 +1,4 @@
-## Tēnā koe!!! Welcome to the world of Shelly (Michelle) Mutu-Grigg 👋
+## Tēnā koe 👋!!! Welcome to the world of Shelly (Michelle) Mutu-Grigg 
 
 - 🔭 I’m currently working on integration Auth0 with our Enspiral Dev Academy final group project https://github.com/horoeka-2020/kapture
 - 🌱 I’m currently learning Auth0
