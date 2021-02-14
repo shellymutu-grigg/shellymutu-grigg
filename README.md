@@ -1,7 +1,7 @@
 ## Tēnā koe 👋!!! Welcome to the world of Shelly (Michelle) Mutu-Grigg 
 
 - 🔭 I’m currently working on integration Auth0 with our Enspiral Dev Academy final group project https://github.com/horoeka-2020/kapture
-- 🌱 I’m currently learning Auth0
+- 🌱 I’m currently learning Auth0 & D3.js
 - 👯 I’m looking to collaborate on educational based open sourced repositories
 - 🤔 I’m looking for help with my development learning journey
 - 💬 Ask me about Colombia
