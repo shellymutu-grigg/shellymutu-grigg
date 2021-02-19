@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with my development learning journey
 - 💬 Ask me about Colombia
 - 📫 How to reach me: shellymutugrigg@gmail.com / +64 21 655 808
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her/nutter
 - ⚡ Fun fact: I love surfing
