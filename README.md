@@ -1,6 +1,6 @@
 ## Tēnā koe 👋!!! Welcome to the world of Shelly (Michelle) Mutu-Grigg 
 
-- 🔭  I’m currently working on practicing typescript, next.js, auth0, graphQL & material-ui.  
+- 🔭  I’m currently working on practicing typescript, next.js, auth0, graphQL, material-ui and of course jest!  
 - 🌱  I’m currently learning Auth0
 - 👯  I’m looking to collaborate on educational based open sourced repositories
 - 🤔  I’m looking for help with my development learning journey
